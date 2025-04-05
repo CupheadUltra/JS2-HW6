@@ -10,6 +10,7 @@
   },
   "author": "Sviatoslav Kaluhin",
   "license": "ISC",
+  "homepage": "https://github.com/CupheadUltra/JS2-HW6",
   "dependencies": {
     "gh-pages": "^6.2.0",
     "parcel": "^2.13.3"
